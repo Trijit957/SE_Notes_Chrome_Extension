@@ -1,0 +1,10 @@
+{
+    "name": "StockEdge Notes",
+    "description": "Taking Notes for StockEdge from different sites",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "./assets/images/logo.png"
+    }
+}
